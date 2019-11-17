@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patrick Lloyd-Smith</title>
-    <link>http://plloydsmith.github.io/teaching/</link>
-      <atom:link href="http://plloydsmith.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>/teaching/</link>
+      <atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Patrick Lloyd-Smith</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>http://plloydsmith.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Patrick Lloyd-Smith</title>
-      <link>http://plloydsmith.github.io/teaching/</link>
+      <link>/teaching/</link>
     </image>
     
   </channel>
