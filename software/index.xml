@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software | Patrick Lloyd-Smith</title>
-    <link>/software/</link>
-      <atom:link href="/software/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://plloydsmith.github.io/software/</link>
+      <atom:link href="http://plloydsmith.github.io/software/index.xml" rel="self" type="application/rss+xml" />
     <description>Software</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>http://plloydsmith.github.io/img/icon-192.png</url>
       <title>Software</title>
-      <link>/software/</link>
+      <link>http://plloydsmith.github.io/software/</link>
     </image>
     
   </channel>
